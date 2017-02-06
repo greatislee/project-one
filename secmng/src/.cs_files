@@ -1,0 +1,8 @@
+socketlog.c
+keymng_shmop.c
+keymngserver.c
+keymngserverop.c
+keymnglog.c
+myipc_shm.c
+keymngclient.c
+keymngclientop.c
